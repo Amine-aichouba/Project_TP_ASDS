@@ -43,7 +43,7 @@
                     • Addition in Binary Code     
 
 
-   # II ~ Main Program in C :
+   ## II ~ Main Program in C :
    
 
             1 ~ Read Number in Base b and Convert to Base b' :
