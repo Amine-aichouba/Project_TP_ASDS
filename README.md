@@ -6,8 +6,8 @@
                    *      * * * * * * * * * * * * * * * * * *      *
 
 
-  #  I ~ Subprograms List :
-    --------------------       
+  ##  I ~ Subprograms List :
+       
 
             1 ~ Coding :       
 
@@ -44,7 +44,7 @@
 
 
    # II ~ Main Program in C :
-    ----------------------
+   
 
             1 ~ Read Number in Base b and Convert to Base b' :
 
@@ -55,4 +55,4 @@
 
                     • Input : Two Binary Numbers
                     • Output : Sum in Binary and Decimal# NEW
-# Project_TP_ASDS
+
