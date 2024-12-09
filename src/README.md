@@ -1,5 +1,5 @@
-## Run
+## Run 
 
 ```console
-User@Github:~$ ./run.sh
+./run.sh
 ```
